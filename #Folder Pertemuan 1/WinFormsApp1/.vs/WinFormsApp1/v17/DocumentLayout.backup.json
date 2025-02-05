@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\lavoi\\kuliah\\Semester 6\\Pemograman Desktop\\Tugas 1\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D38C49B-0FE6-4E8D-B9DD-0BB5C950D69B}|WinFormsApp1\\WinFormsApp1.vbproj|d:\\lavoi\\kuliah\\semester 6\\pemograman desktop\\tugas 1\\winformsapp1\\winformsapp1\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{7D38C49B-0FE6-4E8D-B9DD-0BB5C950D69B}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D38C49B-0FE6-4E8D-B9DD-0BB5C950D69B}|WinFormsApp1\\WinFormsApp1.vbproj|d:\\lavoi\\kuliah\\semester 6\\pemograman desktop\\tugas 1\\winformsapp1\\winformsapp1\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7D38C49B-0FE6-4E8D-B9DD-0BB5C950D69B}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D38C49B-0FE6-4E8D-B9DD-0BB5C950D69B}|WinFormsApp1\\WinFormsApp1.vbproj|d:\\lavoi\\kuliah\\semester 6\\pemograman desktop\\tugas 1\\winformsapp1\\winformsapp1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{7D38C49B-0FE6-4E8D-B9DD-0BB5C950D69B}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D38C49B-0FE6-4E8D-B9DD-0BB5C950D69B}|WinFormsApp1\\WinFormsApp1.vbproj|d:\\lavoi\\kuliah\\semester 6\\pemograman desktop\\tugas 1\\winformsapp1\\winformsapp1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7D38C49B-0FE6-4E8D-B9DD-0BB5C950D69B}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "D:\\lavoi\\kuliah\\Semester 6\\Pemograman Desktop\\Tugas 1\\WinFormsApp1\\WinFormsApp1\\Form2.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form2.vb",
+              "ToolTip": "D:\\lavoi\\kuliah\\Semester 6\\Pemograman Desktop\\Tugas 1\\WinFormsApp1\\WinFormsApp1\\Form2.vb",
+              "RelativeToolTip": "WinFormsApp1\\Form2.vb",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAAwAcBAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-05T13:28:14.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\lavoi\\kuliah\\Semester 6\\Pemograman Desktop\\Tugas 1\\WinFormsApp1\\WinFormsApp1\\Form1.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.vb",
+              "ToolTip": "D:\\lavoi\\kuliah\\Semester 6\\Pemograman Desktop\\Tugas 1\\WinFormsApp1\\WinFormsApp1\\Form1.vb",
+              "RelativeToolTip": "WinFormsApp1\\Form1.vb",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-05T14:27:13.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.vb [Design]",
+              "DocumentMoniker": "D:\\lavoi\\kuliah\\Semester 6\\Pemograman Desktop\\Tugas 1\\WinFormsApp1\\WinFormsApp1\\Form2.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form2.vb",
+              "ToolTip": "D:\\lavoi\\kuliah\\Semester 6\\Pemograman Desktop\\Tugas 1\\WinFormsApp1\\WinFormsApp1\\Form2.vb [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Form2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-05T13:21:55.003Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\lavoi\\kuliah\\Semester 6\\Pemograman Desktop\\Tugas 1\\WinFormsApp1\\WinFormsApp1\\Form1.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.vb",
+              "ToolTip": "D:\\lavoi\\kuliah\\Semester 6\\Pemograman Desktop\\Tugas 1\\WinFormsApp1\\WinFormsApp1\\Form1.vb [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-05T13:21:22.87Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
