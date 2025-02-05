@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\lavoi\\kuliah\\Semester 6\\Pemograman Desktop\\Tugas 1\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.vbproj": {}
+    "D:\\lavoi\\kuliah\\Semester 6\\Pemograman Desktop\\Pemrograman_Desktop\\#Folder Pertemuan 1\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.vbproj": {}
   },
   "projects": {
-    "D:\\lavoi\\kuliah\\Semester 6\\Pemograman Desktop\\Tugas 1\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.vbproj": {
+    "D:\\lavoi\\kuliah\\Semester 6\\Pemograman Desktop\\Pemrograman_Desktop\\#Folder Pertemuan 1\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\lavoi\\kuliah\\Semester 6\\Pemograman Desktop\\Tugas 1\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.vbproj",
+        "projectUniqueName": "D:\\lavoi\\kuliah\\Semester 6\\Pemograman Desktop\\Pemrograman_Desktop\\#Folder Pertemuan 1\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.vbproj",
         "projectName": "WinFormsApp1",
-        "projectPath": "D:\\lavoi\\kuliah\\Semester 6\\Pemograman Desktop\\Tugas 1\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.vbproj",
+        "projectPath": "D:\\lavoi\\kuliah\\Semester 6\\Pemograman Desktop\\Pemrograman_Desktop\\#Folder Pertemuan 1\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.vbproj",
         "packagesPath": "C:\\Users\\lavia\\.nuget\\packages\\",
-        "outputPath": "D:\\lavoi\\kuliah\\Semester 6\\Pemograman Desktop\\Tugas 1\\WinFormsApp1\\WinFormsApp1\\obj\\",
+        "outputPath": "D:\\lavoi\\kuliah\\Semester 6\\Pemograman Desktop\\Pemrograman_Desktop\\#Folder Pertemuan 1\\WinFormsApp1\\WinFormsApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -26,6 +26,9 @@ Partial Class Form2
         Panel1 = New Panel()
         cmdBackspace = New Button()
         Panel2 = New Panel()
+        cmdCalculatorSuhu = New Button()
+        ButtonCubeRoot = New Button()
+        ButtonFactorial = New Button()
         CmdEqual = New Button()
         CmdAddition = New Button()
         CmdInverse = New Button()
@@ -48,20 +51,20 @@ Partial Class Form2
         Cmd9 = New Button()
         Cmd8 = New Button()
         Cmd7 = New Button()
-        cmdCalculatorSuhu = New Button()
         Panel1.SuspendLayout()
         Panel2.SuspendLayout()
         SuspendLayout()
         ' 
         ' txtInput
         ' 
-        txtInput.Font = New Font("Segoe UI", 24F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
-        txtInput.Location = New Point(36, 30)
+        txtInput.Font = New Font("Segoe UI", 36F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        txtInput.Location = New Point(13, 17)
         txtInput.Multiline = True
         txtInput.Name = "txtInput"
-        txtInput.Size = New Size(340, 64)
+        txtInput.Size = New Size(383, 95)
         txtInput.TabIndex = 0
         txtInput.Text = "0"
+        txtInput.TextAlign = HorizontalAlignment.Right
         ' 
         ' Panel1
         ' 
@@ -82,6 +85,9 @@ Partial Class Form2
         ' 
         ' Panel2
         ' 
+        Panel2.Controls.Add(cmdCalculatorSuhu)
+        Panel2.Controls.Add(ButtonCubeRoot)
+        Panel2.Controls.Add(ButtonFactorial)
         Panel2.Controls.Add(CmdEqual)
         Panel2.Controls.Add(CmdAddition)
         Panel2.Controls.Add(CmdInverse)
@@ -107,8 +113,35 @@ Partial Class Form2
         Panel2.Controls.Add(Cmd7)
         Panel2.Location = New Point(12, 170)
         Panel2.Name = "Panel2"
-        Panel2.Size = New Size(409, 351)
+        Panel2.Size = New Size(409, 408)
         Panel2.TabIndex = 3
+        ' 
+        ' cmdCalculatorSuhu
+        ' 
+        cmdCalculatorSuhu.Location = New Point(14, 353)
+        cmdCalculatorSuhu.Name = "cmdCalculatorSuhu"
+        cmdCalculatorSuhu.Size = New Size(216, 44)
+        cmdCalculatorSuhu.TabIndex = 4
+        cmdCalculatorSuhu.Text = "Calculator Suhu"
+        cmdCalculatorSuhu.UseVisualStyleBackColor = True
+        ' 
+        ' ButtonCubeRoot
+        ' 
+        ButtonCubeRoot.Location = New Point(329, 345)
+        ButtonCubeRoot.Name = "ButtonCubeRoot"
+        ButtonCubeRoot.Size = New Size(68, 60)
+        ButtonCubeRoot.TabIndex = 27
+        ButtonCubeRoot.Text = "X^3"
+        ButtonCubeRoot.UseVisualStyleBackColor = True
+        ' 
+        ' ButtonFactorial
+        ' 
+        ButtonFactorial.Location = New Point(255, 345)
+        ButtonFactorial.Name = "ButtonFactorial"
+        ButtonFactorial.Size = New Size(68, 60)
+        ButtonFactorial.TabIndex = 26
+        ButtonFactorial.Text = "n!"
+        ButtonFactorial.UseVisualStyleBackColor = True
         ' 
         ' CmdEqual
         ' 
@@ -308,21 +341,11 @@ Partial Class Form2
         Cmd7.Text = "7"
         Cmd7.UseVisualStyleBackColor = True
         ' 
-        ' cmdCalculatorSuhu
-        ' 
-        cmdCalculatorSuhu.Location = New Point(138, 538)
-        cmdCalculatorSuhu.Name = "cmdCalculatorSuhu"
-        cmdCalculatorSuhu.Size = New Size(148, 44)
-        cmdCalculatorSuhu.TabIndex = 4
-        cmdCalculatorSuhu.Text = "Calculator Suhu"
-        cmdCalculatorSuhu.UseVisualStyleBackColor = True
-        ' 
         ' Form2
         ' 
         AutoScaleDimensions = New SizeF(8F, 20F)
         AutoScaleMode = AutoScaleMode.Font
         ClientSize = New Size(433, 594)
-        Controls.Add(cmdCalculatorSuhu)
         Controls.Add(Panel1)
         Controls.Add(Panel2)
         Name = "Form2"
@@ -360,4 +383,6 @@ Partial Class Form2
     Friend WithEvents Cmd8 As Button
     Friend WithEvents Cmd7 As Button
     Friend WithEvents cmdCalculatorSuhu As Button
+    Friend WithEvents ButtonCubeRoot As Button
+    Friend WithEvents ButtonFactorial As Button
 End Class

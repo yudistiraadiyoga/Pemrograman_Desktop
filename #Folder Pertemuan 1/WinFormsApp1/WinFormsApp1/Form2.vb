@@ -17,9 +17,9 @@
 
     Private Sub Cmd2_Click(sender As Object, e As EventArgs) Handles Cmd2.Click
         If inputStatus = False Then
-            txtInput.Text &= Cmd1.Text
+            txtInput.Text &= Cmd2.Text
         Else
-            txtInput.Text = Cmd1.Text
+            txtInput.Text = Cmd2.Text
             inputStatus = False
         End If
     End Sub
@@ -262,5 +262,22 @@
         Dim form1 As New Form1()
         form1.Show()
         Me.Hide()
+    End Sub
+    Private Function Factorial(n As Integer) As Long
+        If n = 0 Or n = 1 Then
+            Return 1
+        Else
+            Return n * Factorial(n - 1)
+        End If
+    End Function
+
+    Private Sub ButtonFactorial_Click(sender As Object, e As EventArgs) Handles ButtonFactorial.Click
+        Dim num As Integer = CInt(txtInput.Text)
+        txtInput.Text = Factorial(num).ToString()
+    End Sub
+
+    Private Sub ButtonCubeRoot_Click(sender As Object, e As EventArgs) Handles ButtonCubeRoot.Click
+        Dim num As Double = CDbl(txtInput.Text)
+        txtInput.Text = Math.Pow(num, 1 / 3).ToString()
     End Sub
 End Class
