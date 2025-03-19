@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 7\\Tugas\\ParkirSI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4E4D69-35AE-49F0-8528-14147744ADEF}|ParkirSI\\ParkirSI.vbproj|d:\\lavoi\\kuliah\\semester 6\\pemrograman desktop\\pertemuan 7\\tugas\\parkirsi\\parkirsi\\parkirsi.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{6F4E4D69-35AE-49F0-8528-14147744ADEF}|ParkirSI\\ParkirSI.vbproj|solutionrelative:parkirsi\\parkirsi.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4E4D69-35AE-49F0-8528-14147744ADEF}|ParkirSI\\ParkirSI.vbproj|d:\\lavoi\\kuliah\\semester 6\\pemrograman desktop\\pertemuan 7\\tugas\\parkirsi\\parkirsi\\moduledb.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{6F4E4D69-35AE-49F0-8528-14147744ADEF}|ParkirSI\\ParkirSI.vbproj|solutionrelative:parkirsi\\moduledb.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4E4D69-35AE-49F0-8528-14147744ADEF}|ParkirSI\\ParkirSI.vbproj|d:\\lavoi\\kuliah\\semester 6\\pemrograman desktop\\pertemuan 7\\tugas\\parkirsi\\parkirsi\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{6F4E4D69-35AE-49F0-8528-14147744ADEF}|ParkirSI\\ParkirSI.vbproj|solutionrelative:parkirsi\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4E4D69-35AE-49F0-8528-14147744ADEF}|ParkirSI\\ParkirSI.vbproj|d:\\lavoi\\kuliah\\semester 6\\pemrograman desktop\\pertemuan 7\\tugas\\parkirsi\\parkirsi\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{6F4E4D69-35AE-49F0-8528-14147744ADEF}|ParkirSI\\ParkirSI.vbproj|solutionrelative:parkirsi\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4E4D69-35AE-49F0-8528-14147744ADEF}|ParkirSI\\ParkirSI.vbproj|d:\\lavoi\\kuliah\\semester 6\\pemrograman desktop\\pertemuan 7\\tugas\\parkirsi\\parkirsi\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{6F4E4D69-35AE-49F0-8528-14147744ADEF}|ParkirSI\\ParkirSI.vbproj|solutionrelative:parkirsi\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4E4D69-35AE-49F0-8528-14147744ADEF}|ParkirSI\\ParkirSI.vbproj|d:\\lavoi\\kuliah\\semester 6\\pemrograman desktop\\pertemuan 7\\tugas\\parkirsi\\parkirsi\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{6F4E4D69-35AE-49F0-8528-14147744ADEF}|ParkirSI\\ParkirSI.vbproj|solutionrelative:parkirsi\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4E4D69-35AE-49F0-8528-14147744ADEF}|ParkirSI\\ParkirSI.vbproj|d:\\lavoi\\kuliah\\semester 6\\pemrograman desktop\\pertemuan 7\\tugas\\parkirsi\\parkirsi\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{6F4E4D69-35AE-49F0-8528-14147744ADEF}|ParkirSI\\ParkirSI.vbproj|solutionrelative:parkirsi\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4E4D69-35AE-49F0-8528-14147744ADEF}|ParkirSI\\ParkirSI.vbproj|d:\\lavoi\\kuliah\\semester 6\\pemrograman desktop\\pertemuan 7\\tugas\\parkirsi\\parkirsi\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{6F4E4D69-35AE-49F0-8528-14147744ADEF}|ParkirSI\\ParkirSI.vbproj|solutionrelative:parkirsi\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4E4D69-35AE-49F0-8528-14147744ADEF}|ParkirSI\\ParkirSI.vbproj|d:\\lavoi\\kuliah\\semester 6\\pemrograman desktop\\pertemuan 7\\tugas\\parkirsi\\parkirsi\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{6F4E4D69-35AE-49F0-8528-14147744ADEF}|ParkirSI\\ParkirSI.vbproj|solutionrelative:parkirsi\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4E4D69-35AE-49F0-8528-14147744ADEF}|ParkirSI\\ParkirSI.vbproj|d:\\lavoi\\kuliah\\semester 6\\pemrograman desktop\\pertemuan 7\\tugas\\parkirsi\\parkirsi\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{6F4E4D69-35AE-49F0-8528-14147744ADEF}|ParkirSI\\ParkirSI.vbproj|solutionrelative:parkirsi\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 7\\Tugas\\ParkirSI\\ParkirSI\\Form1.vb",
+              "RelativeDocumentMoniker": "ParkirSI\\Form1.vb",
+              "ToolTip": "D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 7\\Tugas\\ParkirSI\\ParkirSI\\Form1.vb",
+              "RelativeToolTip": "ParkirSI\\Form1.vb",
+              "ViewState": "AgIAAAMAAAAAAAAAAAA9wAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-18T18:59:22.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form4.vb [Design]",
+              "DocumentMoniker": "D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 7\\Tugas\\ParkirSI\\ParkirSI\\Form4.vb",
+              "RelativeDocumentMoniker": "ParkirSI\\Form4.vb",
+              "ToolTip": "D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 7\\Tugas\\ParkirSI\\ParkirSI\\Form4.vb [Design]",
+              "RelativeToolTip": "ParkirSI\\Form4.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-18T19:01:00.888Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ParkirSI",
+              "DocumentMoniker": "D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 7\\Tugas\\ParkirSI\\ParkirSI\\ParkirSI.vbproj",
+              "RelativeDocumentMoniker": "ParkirSI\\ParkirSI.vbproj",
+              "ToolTip": "D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 7\\Tugas\\ParkirSI\\ParkirSI\\ParkirSI.vbproj",
+              "RelativeToolTip": "ParkirSI\\ParkirSI.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2025-03-18T18:58:36.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form3.vb [Design]",
+              "DocumentMoniker": "D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 7\\Tugas\\ParkirSI\\ParkirSI\\Form3.vb",
+              "RelativeDocumentMoniker": "ParkirSI\\Form3.vb",
+              "ToolTip": "D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 7\\Tugas\\ParkirSI\\ParkirSI\\Form3.vb [Design]",
+              "RelativeToolTip": "ParkirSI\\Form3.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-18T19:00:59.258Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form4.vb",
+              "DocumentMoniker": "D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 7\\Tugas\\ParkirSI\\ParkirSI\\Form4.vb",
+              "RelativeDocumentMoniker": "ParkirSI\\Form4.vb",
+              "ToolTip": "D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 7\\Tugas\\ParkirSI\\ParkirSI\\Form4.vb",
+              "RelativeToolTip": "ParkirSI\\Form4.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-18T19:01:21.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 7\\Tugas\\ParkirSI\\ParkirSI\\Form2.vb",
+              "RelativeDocumentMoniker": "ParkirSI\\Form2.vb",
+              "ToolTip": "D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 7\\Tugas\\ParkirSI\\ParkirSI\\Form2.vb",
+              "RelativeToolTip": "ParkirSI\\Form2.vb",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAswKIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-18T19:01:08.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.vb [Design]",
+              "DocumentMoniker": "D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 7\\Tugas\\ParkirSI\\ParkirSI\\Form2.vb",
+              "RelativeDocumentMoniker": "ParkirSI\\Form2.vb",
+              "ToolTip": "D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 7\\Tugas\\ParkirSI\\ParkirSI\\Form2.vb [Design]",
+              "RelativeToolTip": "ParkirSI\\Form2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-18T19:00:55.564Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModuleDB.vb",
+              "DocumentMoniker": "D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 7\\Tugas\\ParkirSI\\ParkirSI\\ModuleDB.vb",
+              "RelativeDocumentMoniker": "ParkirSI\\ModuleDB.vb",
+              "ToolTip": "D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 7\\Tugas\\ParkirSI\\ParkirSI\\ModuleDB.vb",
+              "RelativeToolTip": "ParkirSI\\ModuleDB.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-18T18:59:26.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form3.vb",
+              "DocumentMoniker": "D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 7\\Tugas\\ParkirSI\\ParkirSI\\Form3.vb",
+              "RelativeDocumentMoniker": "ParkirSI\\Form3.vb",
+              "ToolTip": "D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 7\\Tugas\\ParkirSI\\ParkirSI\\Form3.vb",
+              "RelativeToolTip": "ParkirSI\\Form3.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-18T19:01:16.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 7\\Tugas\\ParkirSI\\ParkirSI\\Form1.vb",
+              "RelativeDocumentMoniker": "ParkirSI\\Form1.vb",
+              "ToolTip": "D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 7\\Tugas\\ParkirSI\\ParkirSI\\Form1.vb [Design]",
+              "RelativeToolTip": "ParkirSI\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-18T18:59:01.16Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
