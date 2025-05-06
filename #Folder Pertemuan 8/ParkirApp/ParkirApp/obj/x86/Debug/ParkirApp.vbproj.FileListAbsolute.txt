@@ -1,0 +1,122 @@
+E:\Projects\Visual Studio Projects\ParkirApp\ParkirApp\bin\Debug\ParkirApp.exe
+E:\Projects\Visual Studio Projects\ParkirApp\ParkirApp\bin\Debug\ParkirApp.pdb
+E:\Projects\Visual Studio Projects\ParkirApp\ParkirApp\bin\Debug\ParkirApp.xml
+E:\Projects\Visual Studio Projects\ParkirApp\ParkirApp\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\Visual Studio Projects\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.Resources.resources
+E:\Projects\Visual Studio Projects\ParkirApp\ParkirApp\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Projects\Visual Studio Projects\ParkirApp\ParkirApp\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Projects\Visual Studio Projects\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.exe
+E:\Projects\Visual Studio Projects\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.xml
+E:\Projects\Visual Studio Projects\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.pdb
+E:\Projects\Visual Studio Projects\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.frmLangganan.resources
+E:\Projects\Visual Studio Projects\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.frmProfil.resources
+E:\Projects\Visual Studio Projects\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.frmUtama.resources
+E:\Projects\Visual Studio Projects\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.frmLogin.resources
+J:\dosen\gui\program\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.exe
+J:\dosen\gui\program\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.xml
+J:\dosen\gui\program\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.pdb
+J:\dosen\gui\program\ParkirApp\ParkirApp\bin\Debug\ParkirApp.exe
+J:\dosen\gui\program\ParkirApp\ParkirApp\bin\Debug\ParkirApp.pdb
+J:\dosen\gui\program\ParkirApp\ParkirApp\bin\Debug\ParkirApp.xml
+J:\dosen\gui\program\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.vbprojResolveAssemblyReference.cache
+J:\dosen\gui\program\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.frmUtama.resources
+J:\dosen\gui\program\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.frmLangganan.resources
+J:\dosen\gui\program\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.frmProfil.resources
+J:\dosen\gui\program\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.frmLogin.resources
+J:\dosen\gui\program\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.Resources.resources
+J:\dosen\gui\program\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.vbproj.GenerateResource.Cache
+G:\dosen\gui\program\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.exe
+G:\dosen\gui\program\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.xml
+G:\dosen\gui\program\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.pdb
+E:\dosen\gui\program\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.exe
+E:\dosen\gui\program\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.xml
+E:\dosen\gui\program\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.pdb
+E:\dosen\gui\program\ParkirApp\ParkirApp\bin\Debug\ParkirApp.exe
+E:\dosen\gui\program\ParkirApp\ParkirApp\bin\Debug\ParkirApp.pdb
+E:\dosen\gui\program\ParkirApp\ParkirApp\bin\Debug\ParkirApp.xml
+E:\dosen\gui\program\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.vbprojResolveAssemblyReference.cache
+E:\dosen\gui\program\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.frmUtama.resources
+E:\dosen\gui\program\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.frmLangganan.resources
+E:\dosen\gui\program\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.frmProfil.resources
+E:\dosen\gui\program\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.frmLogin.resources
+E:\dosen\gui\program\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.Resources.resources
+E:\dosen\gui\program\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.vbproj.GenerateResource.Cache
+G:\dosen\gui\program\ParkirApp\ParkirApp\bin\Debug\ParkirApp.exe
+G:\dosen\gui\program\ParkirApp\ParkirApp\bin\Debug\ParkirApp.pdb
+G:\dosen\gui\program\ParkirApp\ParkirApp\bin\Debug\ParkirApp.xml
+G:\dosen\gui\program\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.vbprojResolveAssemblyReference.cache
+G:\dosen\gui\program\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.frmUtama.resources
+G:\dosen\gui\program\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.frmLangganan.resources
+G:\dosen\gui\program\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.frmProfil.resources
+G:\dosen\gui\program\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.frmLogin.resources
+G:\dosen\gui\program\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.Resources.resources
+G:\dosen\gui\program\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.vbproj.GenerateResource.Cache
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\bin\Debug\ParkirApp.exe.config
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\bin\Debug\ParkirApp.exe
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\bin\Debug\ParkirApp.pdb
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\bin\Debug\ParkirApp.xml
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.vbproj.AssemblyReference.cache
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.frmUtama.resources
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.frmLangganan.resources
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.frmProfil.resources
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.frmLogin.resources
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.Resources.resources
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.vbproj.GenerateResource.cache
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.vbproj.CoreCompileInputs.cache
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.vbproj.Up2Date
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.exe
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.xml
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.pdb
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\bin\Debug\EnvDTE.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\bin\Debug\stdole.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 8\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.formLaporan.resources

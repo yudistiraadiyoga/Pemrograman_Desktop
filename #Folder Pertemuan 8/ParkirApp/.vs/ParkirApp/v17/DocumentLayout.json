@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 8\\ParkirApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86D380AC-6305-46D4-A75B-B157CFC29796}|ParkirApp\\ParkirApp.vbproj|d:\\lavoi\\kuliah\\semester 6\\pemrograman desktop\\pertemuan 8\\parkirapp\\parkirapp\\laporan.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{86D380AC-6305-46D4-A75B-B157CFC29796}|ParkirApp\\ParkirApp.vbproj|solutionrelative:parkirapp\\laporan.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86D380AC-6305-46D4-A75B-B157CFC29796}|ParkirApp\\ParkirApp.vbproj|D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 8\\ParkirApp\\parkirapp\\frmutama.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{86D380AC-6305-46D4-A75B-B157CFC29796}|ParkirApp\\ParkirApp.vbproj|solutionrelative:parkirapp\\frmutama.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86D380AC-6305-46D4-A75B-B157CFC29796}|ParkirApp\\ParkirApp.vbproj|D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 8\\ParkirApp\\parkirapp\\frmprofil.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{86D380AC-6305-46D4-A75B-B157CFC29796}|ParkirApp\\ParkirApp.vbproj|solutionrelative:parkirapp\\frmprofil.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86D380AC-6305-46D4-A75B-B157CFC29796}|ParkirApp\\ParkirApp.vbproj|D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 8\\ParkirApp\\parkirapp\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{86D380AC-6305-46D4-A75B-B157CFC29796}|ParkirApp\\ParkirApp.vbproj|solutionrelative:parkirapp\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86D380AC-6305-46D4-A75B-B157CFC29796}|ParkirApp\\ParkirApp.vbproj|D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 8\\ParkirApp\\parkirapp\\formlaporan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{86D380AC-6305-46D4-A75B-B157CFC29796}|ParkirApp\\ParkirApp.vbproj|solutionrelative:parkirapp\\formlaporan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86D380AC-6305-46D4-A75B-B157CFC29796}|ParkirApp\\ParkirApp.vbproj|D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 8\\ParkirApp\\parkirapp\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{86D380AC-6305-46D4-A75B-B157CFC29796}|ParkirApp\\ParkirApp.vbproj|solutionrelative:parkirapp\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86D380AC-6305-46D4-A75B-B157CFC29796}|ParkirApp\\ParkirApp.vbproj|D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 8\\ParkirApp\\parkirapp\\moduledb.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{86D380AC-6305-46D4-A75B-B157CFC29796}|ParkirApp\\ParkirApp.vbproj|solutionrelative:parkirapp\\moduledb.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86D380AC-6305-46D4-A75B-B157CFC29796}|ParkirApp\\ParkirApp.vbproj|D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 8\\ParkirApp\\parkirapp\\frmprofil.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{86D380AC-6305-46D4-A75B-B157CFC29796}|ParkirApp\\ParkirApp.vbproj|solutionrelative:parkirapp\\frmprofil.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86D380AC-6305-46D4-A75B-B157CFC29796}|ParkirApp\\ParkirApp.vbproj|D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 8\\ParkirApp\\parkirapp\\formlaporan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{86D380AC-6305-46D4-A75B-B157CFC29796}|ParkirApp\\ParkirApp.vbproj|solutionrelative:parkirapp\\formlaporan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86D380AC-6305-46D4-A75B-B157CFC29796}|ParkirApp\\ParkirApp.vbproj|D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 8\\ParkirApp\\parkirapp\\formlaporan.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{86D380AC-6305-46D4-A75B-B157CFC29796}|ParkirApp\\ParkirApp.vbproj|solutionrelative:parkirapp\\formlaporan.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86D380AC-6305-46D4-A75B-B157CFC29796}|ParkirApp\\ParkirApp.vbproj|D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 8\\ParkirApp\\parkirapp\\frmutama.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{86D380AC-6305-46D4-A75B-B157CFC29796}|ParkirApp\\ParkirApp.vbproj|solutionrelative:parkirapp\\frmutama.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86D380AC-6305-46D4-A75B-B157CFC29796}|ParkirApp\\ParkirApp.vbproj|D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 8\\ParkirApp\\parkirapp\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{86D380AC-6305-46D4-A75B-B157CFC29796}|ParkirApp\\ParkirApp.vbproj|solutionrelative:parkirapp\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmLogin.vb [Design]",
+              "DocumentMoniker": "D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 8\\ParkirApp\\ParkirApp\\frmLogin.vb",
+              "RelativeDocumentMoniker": "ParkirApp\\frmLogin.vb",
+              "ToolTip": "D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 8\\ParkirApp\\ParkirApp\\frmLogin.vb [Design]",
+              "RelativeToolTip": "ParkirApp\\frmLogin.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-05T12:53:28.444Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmProfil.vb [Design]",
+              "DocumentMoniker": "D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 8\\ParkirApp\\ParkirApp\\frmProfil.vb",
+              "RelativeDocumentMoniker": "ParkirApp\\frmProfil.vb",
+              "ToolTip": "D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 8\\ParkirApp\\ParkirApp\\frmProfil.vb [Design]",
+              "RelativeToolTip": "ParkirApp\\frmProfil.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-05T12:47:14.153Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmUtama.vb",
+              "DocumentMoniker": "D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 8\\ParkirApp\\ParkirApp\\frmUtama.vb",
+              "RelativeDocumentMoniker": "ParkirApp\\frmUtama.vb",
+              "ToolTip": "D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 8\\ParkirApp\\ParkirApp\\frmUtama.vb",
+              "RelativeToolTip": "ParkirApp\\frmUtama.vb",
+              "ViewState": "AgIAADcAAAAAAAAAAAAiwD8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-05T12:03:44.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "laporan.rdlc [Design]",
+              "DocumentMoniker": "D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 8\\ParkirApp\\ParkirApp\\laporan.rdlc",
+              "RelativeDocumentMoniker": "ParkirApp\\laporan.rdlc",
+              "ToolTip": "D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 8\\ParkirApp\\ParkirApp\\laporan.rdlc [Design]",
+              "RelativeToolTip": "ParkirApp\\laporan.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-05-01T11:43:04.681Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmLogin.vb",
+              "DocumentMoniker": "D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 8\\ParkirApp\\ParkirApp\\frmLogin.vb",
+              "RelativeDocumentMoniker": "ParkirApp\\frmLogin.vb",
+              "ToolTip": "D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 8\\ParkirApp\\ParkirApp\\frmLogin.vb",
+              "RelativeToolTip": "ParkirApp\\frmLogin.vb",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-05T12:53:30.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmProfil.vb",
+              "DocumentMoniker": "D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 8\\ParkirApp\\ParkirApp\\frmProfil.vb",
+              "RelativeDocumentMoniker": "ParkirApp\\frmProfil.vb",
+              "ToolTip": "D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 8\\ParkirApp\\ParkirApp\\frmProfil.vb",
+              "RelativeToolTip": "ParkirApp\\frmProfil.vb",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwB4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-05T12:47:17.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ModuleDB.vb",
+              "DocumentMoniker": "D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 8\\ParkirApp\\ParkirApp\\ModuleDB.vb",
+              "RelativeDocumentMoniker": "ParkirApp\\ModuleDB.vb",
+              "ToolTip": "D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 8\\ParkirApp\\ParkirApp\\ModuleDB.vb",
+              "RelativeToolTip": "ParkirApp\\ModuleDB.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-05T12:39:39.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "formLaporan.vb",
+              "DocumentMoniker": "D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 8\\ParkirApp\\ParkirApp\\formLaporan.vb",
+              "RelativeDocumentMoniker": "ParkirApp\\formLaporan.vb",
+              "ToolTip": "D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 8\\ParkirApp\\ParkirApp\\formLaporan.vb",
+              "RelativeToolTip": "ParkirApp\\formLaporan.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-01T11:58:48.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DataSet1.xsd",
+              "DocumentMoniker": "D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 8\\ParkirApp\\ParkirApp\\DataSet1.xsd",
+              "RelativeDocumentMoniker": "ParkirApp\\DataSet1.xsd",
+              "ToolTip": "D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 8\\ParkirApp\\ParkirApp\\DataSet1.xsd",
+              "RelativeToolTip": "ParkirApp\\DataSet1.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-05-01T11:43:30.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmUtama.vb [Design]",
+              "DocumentMoniker": "D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 8\\ParkirApp\\ParkirApp\\frmUtama.vb",
+              "RelativeDocumentMoniker": "ParkirApp\\frmUtama.vb",
+              "ToolTip": "D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 8\\ParkirApp\\ParkirApp\\frmUtama.vb [Design]",
+              "RelativeToolTip": "ParkirApp\\frmUtama.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-05T11:11:03.923Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "formLaporan.Designer.vb",
+              "DocumentMoniker": "D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 8\\ParkirApp\\ParkirApp\\formLaporan.Designer.vb",
+              "RelativeDocumentMoniker": "ParkirApp\\formLaporan.Designer.vb",
+              "ToolTip": "D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 8\\ParkirApp\\ParkirApp\\formLaporan.Designer.vb",
+              "RelativeToolTip": "ParkirApp\\formLaporan.Designer.vb",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAkwH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-05T11:55:25.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "formLaporan.vb [Design]",
+              "DocumentMoniker": "D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 8\\ParkirApp\\ParkirApp\\formLaporan.vb",
+              "RelativeDocumentMoniker": "ParkirApp\\formLaporan.vb",
+              "ToolTip": "D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 8\\ParkirApp\\ParkirApp\\formLaporan.vb [Design]",
+              "RelativeToolTip": "ParkirApp\\formLaporan.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-01T09:01:50.685Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
