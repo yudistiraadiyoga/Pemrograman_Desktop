@@ -1,0 +1,28 @@
+D:\Progdesk\Pemrograman_Desktop\#Folder Pertemuan 12\Pengolah Vektor\bin\Debug\Corat-Coret Vektor.exe.config
+D:\Progdesk\Pemrograman_Desktop\#Folder Pertemuan 12\Pengolah Vektor\bin\Debug\Corat-Coret Vektor.exe
+D:\Progdesk\Pemrograman_Desktop\#Folder Pertemuan 12\Pengolah Vektor\bin\Debug\Corat-Coret Vektor.pdb
+D:\Progdesk\Pemrograman_Desktop\#Folder Pertemuan 12\Pengolah Vektor\bin\Debug\Corat-Coret Vektor.xml
+D:\Progdesk\Pemrograman_Desktop\#Folder Pertemuan 12\Pengolah Vektor\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\Progdesk\Pemrograman_Desktop\#Folder Pertemuan 12\Pengolah Vektor\obj\Debug\Pengolah Vektor.vbproj.AssemblyReference.cache
+D:\Progdesk\Pemrograman_Desktop\#Folder Pertemuan 12\Pengolah Vektor\obj\Debug\Corat_Coret_Vektor.frmUtama.resources
+D:\Progdesk\Pemrograman_Desktop\#Folder Pertemuan 12\Pengolah Vektor\obj\Debug\Corat_Coret_Vektor.Resources.resources
+D:\Progdesk\Pemrograman_Desktop\#Folder Pertemuan 12\Pengolah Vektor\obj\Debug\Pengolah Vektor.vbproj.GenerateResource.cache
+D:\Progdesk\Pemrograman_Desktop\#Folder Pertemuan 12\Pengolah Vektor\obj\Debug\Pengolah Vektor.vbproj.CoreCompileInputs.cache
+D:\Progdesk\Pemrograman_Desktop\#Folder Pertemuan 12\Pengolah Vektor\obj\Debug\Pengolah.320380F1.Up2Date
+D:\Progdesk\Pemrograman_Desktop\#Folder Pertemuan 12\Pengolah Vektor\obj\Debug\Corat-Coret Vektor.exe
+D:\Progdesk\Pemrograman_Desktop\#Folder Pertemuan 12\Pengolah Vektor\obj\Debug\Corat-Coret Vektor.xml
+D:\Progdesk\Pemrograman_Desktop\#Folder Pertemuan 12\Pengolah Vektor\obj\Debug\Corat-Coret Vektor.pdb
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 10\Pengolah Vektor\bin\Debug\Corat-Coret Vektor.exe.config
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 10\Pengolah Vektor\bin\Debug\Corat-Coret Vektor.exe
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 10\Pengolah Vektor\bin\Debug\Corat-Coret Vektor.pdb
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 10\Pengolah Vektor\bin\Debug\Corat-Coret Vektor.xml
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 10\Pengolah Vektor\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 10\Pengolah Vektor\obj\Debug\Pengolah Vektor.vbproj.AssemblyReference.cache
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 10\Pengolah Vektor\obj\Debug\Corat_Coret_Vektor.frmUtama.resources
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 10\Pengolah Vektor\obj\Debug\Corat_Coret_Vektor.Resources.resources
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 10\Pengolah Vektor\obj\Debug\Pengolah Vektor.vbproj.GenerateResource.cache
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 10\Pengolah Vektor\obj\Debug\Pengolah Vektor.vbproj.CoreCompileInputs.cache
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 10\Pengolah Vektor\obj\Debug\Pengolah.320380F1.Up2Date
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 10\Pengolah Vektor\obj\Debug\Corat-Coret Vektor.exe
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 10\Pengolah Vektor\obj\Debug\Corat-Coret Vektor.xml
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 10\Pengolah Vektor\obj\Debug\Corat-Coret Vektor.pdb

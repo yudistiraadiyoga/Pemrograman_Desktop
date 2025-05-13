@@ -1,0 +1,14 @@
+C:\Users\Ivan\OneDrive - Duta Wacana Christian University\SEMESTER 2\Pemrograman_Desktop1\#Folder Pertemuan 12\Corat-Coret Vektor\obj\Debug\Corat-Coret Vektor.vbproj.AssemblyReference.cache
+C:\Users\Ivan\OneDrive - Duta Wacana Christian University\SEMESTER 2\Pemrograman_Desktop1\#Folder Pertemuan 12\Corat-Coret Vektor\obj\Debug\Corat_Coret_Vektor.frmUtama.resources
+C:\Users\Ivan\OneDrive - Duta Wacana Christian University\SEMESTER 2\Pemrograman_Desktop1\#Folder Pertemuan 12\Corat-Coret Vektor\obj\Debug\Corat_Coret_Vektor.Resources.resources
+C:\Users\Ivan\OneDrive - Duta Wacana Christian University\SEMESTER 2\Pemrograman_Desktop1\#Folder Pertemuan 12\Corat-Coret Vektor\obj\Debug\Corat-Coret Vektor.vbproj.GenerateResource.cache
+C:\Users\Ivan\OneDrive - Duta Wacana Christian University\SEMESTER 2\Pemrograman_Desktop1\#Folder Pertemuan 12\Corat-Coret Vektor\obj\Debug\Corat-Coret Vektor.vbproj.CoreCompileInputs.cache
+C:\Users\Ivan\OneDrive - Duta Wacana Christian University\SEMESTER 2\Pemrograman_Desktop1\#Folder Pertemuan 12\Corat-Coret Vektor\bin\Debug\Corat-Coret Vektor.exe.config
+C:\Users\Ivan\OneDrive - Duta Wacana Christian University\SEMESTER 2\Pemrograman_Desktop1\#Folder Pertemuan 12\Corat-Coret Vektor\bin\Debug\Corat-Coret Vektor.exe
+C:\Users\Ivan\OneDrive - Duta Wacana Christian University\SEMESTER 2\Pemrograman_Desktop1\#Folder Pertemuan 12\Corat-Coret Vektor\bin\Debug\Corat-Coret Vektor.pdb
+C:\Users\Ivan\OneDrive - Duta Wacana Christian University\SEMESTER 2\Pemrograman_Desktop1\#Folder Pertemuan 12\Corat-Coret Vektor\bin\Debug\Corat-Coret Vektor.xml
+C:\Users\Ivan\OneDrive - Duta Wacana Christian University\SEMESTER 2\Pemrograman_Desktop1\#Folder Pertemuan 12\Corat-Coret Vektor\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\Ivan\OneDrive - Duta Wacana Christian University\SEMESTER 2\Pemrograman_Desktop1\#Folder Pertemuan 12\Corat-Coret Vektor\obj\Debug\Corat-Co.ACAD180C.Up2Date
+C:\Users\Ivan\OneDrive - Duta Wacana Christian University\SEMESTER 2\Pemrograman_Desktop1\#Folder Pertemuan 12\Corat-Coret Vektor\obj\Debug\Corat-Coret Vektor.exe
+C:\Users\Ivan\OneDrive - Duta Wacana Christian University\SEMESTER 2\Pemrograman_Desktop1\#Folder Pertemuan 12\Corat-Coret Vektor\obj\Debug\Corat-Coret Vektor.xml
+C:\Users\Ivan\OneDrive - Duta Wacana Christian University\SEMESTER 2\Pemrograman_Desktop1\#Folder Pertemuan 12\Corat-Coret Vektor\obj\Debug\Corat-Coret Vektor.pdb

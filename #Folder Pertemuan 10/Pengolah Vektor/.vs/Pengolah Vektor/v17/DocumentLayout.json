@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 10\\Pengolah Vektor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D92F2DD1-9F85-4FFD-879A-A03329B0F91E}|Pengolah Vektor.vbproj|d:\\lavoi\\kuliah\\semester 6\\pemrograman desktop\\pertemuan 10\\pengolah vektor\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D92F2DD1-9F85-4FFD-879A-A03329B0F91E}|Pengolah Vektor.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D92F2DD1-9F85-4FFD-879A-A03329B0F91E}|Pengolah Vektor.vbproj|d:\\lavoi\\kuliah\\semester 6\\pemrograman desktop\\pertemuan 10\\pengolah vektor\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D92F2DD1-9F85-4FFD-879A-A03329B0F91E}|Pengolah Vektor.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D92F2DD1-9F85-4FFD-879A-A03329B0F91E}|Corat-Coret Vektor.vbproj|D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 10\\Pengolah Vektor\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D92F2DD1-9F85-4FFD-879A-A03329B0F91E}|Corat-Coret Vektor.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 10\\Pengolah Vektor\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 10\\Pengolah Vektor\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AgIAABcBAAAAAAAAAAA6wAsBAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-13T15:57:22.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 10\\Pengolah Vektor\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 10\\Pengolah Vektor\\Form1.vb [Design]",
+              "RelativeToolTip": "Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-13T15:56:36.442Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 10\\Pengolah Vektor\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\Ivan\\OneDrive - Duta Wacana Christian University\\SEMESTER 2\\Pemrograman_Desktop1\\#Folder Pertemuan 12\\Corat-Coret Vektor\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-13T01:03:29.053Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
