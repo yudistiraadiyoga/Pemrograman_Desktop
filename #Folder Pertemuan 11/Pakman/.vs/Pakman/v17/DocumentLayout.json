@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 11\\Pakman\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{218655FA-E1D3-4369-B3A2-98B610168B3A}|Pakman\\Pakman.vbproj|d:\\lavoi\\kuliah\\semester 6\\pemrograman desktop\\pertemuan 11\\pakman\\pakman\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{218655FA-E1D3-4369-B3A2-98B610168B3A}|Pakman\\Pakman.vbproj|solutionrelative:pakman\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218655FA-E1D3-4369-B3A2-98B610168B3A}|Pakman\\Pakman.vbproj|d:\\lavoi\\kuliah\\semester 6\\pemrograman desktop\\pertemuan 11\\pakman\\pakman\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{218655FA-E1D3-4369-B3A2-98B610168B3A}|Pakman\\Pakman.vbproj|solutionrelative:pakman\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 11\\Pakman\\Pakman\\Form1.vb",
+              "RelativeDocumentMoniker": "Pakman\\Form1.vb",
+              "ToolTip": "D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 11\\Pakman\\Pakman\\Form1.vb [Design]",
+              "RelativeToolTip": "Pakman\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-20T12:23:44.821Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 11\\Pakman\\Pakman\\Form1.vb",
+              "RelativeDocumentMoniker": "Pakman\\Form1.vb",
+              "ToolTip": "D:\\lavoi\\kuliah\\Semester 6\\PEMROGRAMAN DESKTOP\\Pertemuan 11\\Pakman\\Pakman\\Form1.vb",
+              "RelativeToolTip": "Pakman\\Form1.vb",
+              "ViewState": "AgIAALUAAAAAAAAAAAAAAMAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-20T11:52:25.364Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
